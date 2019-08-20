@@ -23,7 +23,7 @@
     <MtouchLink>None</MtouchLink>
     <MtouchDebug>true</MtouchDebug>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
-    <CodesignProvision>VS: WildCard Development</CodesignProvision>
+    <CodesignProvision>com.yunlei.container</CodesignProvision>
     <CodesignKey>iPhone Developer: Yunlei Liu (BFCPDD68L2)</CodesignKey>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
